@@ -86,4 +86,5 @@ docker-compose down --rmi all -v
 - requirements clarification
   - if we need including/excluding time boundaries
   - if we need messages with their times (e.g. request with scores)
-
+- optimize with springboot docker layers
+- use redis server TIME
